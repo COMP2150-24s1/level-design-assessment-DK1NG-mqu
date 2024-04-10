@@ -20,15 +20,18 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+Over the course of the first section/floor, the player learns the basics of the platformer and its mechanics that are required in order to complete the game. My level design incorporates good design practice through its gradual increase in difficulty and implementation of different/more challenging puzzles during a player's attempt at completing the level. As the player completes more and more sections of the level, they become more and more familiar with certain mechanics and the way things work, because of this the level increases in difficulty and encourages the player to continue learning different ways to go about completing the level.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+My level incentivises the player to explore through providing them with rewards for doing so. 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
