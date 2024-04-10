@@ -37,27 +37,29 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Spikes
+Spikes were the first obstacle I chose to introduce to the player as it is a relatively easy obstacle, dealing minimum damage and allowing the player to move on without dying and an invincibility timer.
 
-### 2.2. Checkpoints
+### 2.2. Acid + Moving Platforms
+Due to acid killing the player, I thought it best to introduce it fairly early so they know this feature and be more cautious around it in the future. The added moving platforms help the player easily cross the acid.
 
-### 2.3. Chompers
+### 2.3. Weapon Pickup (Staff) + Chompers
+After the player crosses the acid, they are given the staff as a weapon to fight enemies and destroy particular walls. The player is then confronted with a chomper on a platform, depending on the chomper's position, the chomper will attack and stop the player from reaching the platform, causing them to lose health and fall down. The player can then try again during the chomper's attack cooldown and hopefully be successful in defeating the chomper.
 
-### 2.4. Health Pickups
+### 2.4. Passthrough Platforms + Health Pickups
+After defeating the chomper, the player can jump up through a passthrough platform towards a health pickup. Through exploration, the player finds this hidden health bonus and is rewarded for their curiosity, and therefore is encouraged to explore and be curious more often as there is an incentive for this.
+
+### 2.5. Checkpoints
+A checkpoint is then introduced, giving the player a chance to respawn if they were to die between here and the next checkpoint. I decided to place the checkpoint here due to the next challenge of moving platforms + acid + a new enemy. This challenge could be difficult for players so by having a checkpoint in this location they won't have to repeat all the stuff they might have mastered by now.
+
+### 2.6. Spitters
+I decided to introduce a spitter in this location to give the player a greater challenge crossing the acid. If the challenge was to cross the acid without any extra difficulty, it would be the same as my introduction to those mechanics, so by adding the spitter, it becomes more difficult than the original introduction.
+
+### 2.7. Weapon Pickup (Gun)
+The introduction of the gun pickup here is a way to show the player that firstly, they can figure out how to shoot their weapon before an enemy confronts them, and secondly, so they learn they can shoot the gun whilst crouching which may be helpful in future sections.
 
 ### 2.5. Keys
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
+The key is introduced to the player once they have gotten to the end of the 'first floor' as a reward for completing it and are then encouraged to move on further into the cave. 
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
