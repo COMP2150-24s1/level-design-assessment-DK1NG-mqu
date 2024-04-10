@@ -16,22 +16,19 @@ Example:
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-Over the course of the first section/floor, the player learns the basics of the platformer and its mechanics that are required in order to complete the game. My level design incorporates good design practice through its gradual increase in difficulty and implementation of different/more challenging puzzles during a player's attempt at completing the level. As the player completes more and more sections of the level, they become more and more familiar with certain mechanics and the way things work, because of this the level increases in difficulty and encourages the player to continue learning different ways to go about completing the level.
+Over the course of the first section/floor, the player learns the basics of the platformer and its mechanics that are required in order to complete the game. My level design incorporates good design practice through its gradual increase in difficulty and implementation of different/more challenging puzzles during a player's attempt at completing the level. As the player completes more and more sections of the level, they become more and more familiar with certain mechanics and the way things work, because of this the level increases in difficulty and encourages the player to continue learning different ways to go about completing the level. The design of my level also shows good design practice by having a clear narrative from the start with the player entering and exploring a cave that gets progressively more difficult the lower and further through the cave they get.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
-
+To show the intensity curve in my level, I utilised spikes in difficulty and also connective spaces where the player can rest for a bit before getting back into the fight. The difficulty spikes include having multiple enemies in the same space, a spawner that creates an enemy as soon as the last one was defeated, or difficult sections over acid or spikes that require precise timing to avoid falling and getting damaged. An example of a connective space within my level is after the player crosses two pits of acid, dodges spikes and a spitter, there is a small tunnel the player goes through, which leads them to a checkpoint and a health pickup giving the player a chance to rest and breathe before they move on to the next section.
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+The biggest challenges in my level occur throughout the first section whilst the player is still getting familiar with the mechanics and controls of the game. However, as they progress through the level the difficulty does still have spikes and connective spaces in between to balance the challenges. Whilst the main challenges are at the beginning, there are some puzzles towards the end of the level which may challenge the player and their thinking. One of these puzzles includes opening a door, requiring them to shoot a switch, extending a bridge, allowing them to enter another room with enemies and another switch which will open the door, finally allowing the player through to the next area. After this difficult puzzle, there is a connective space including only a few enemies, however also includes a small parkour section using passthrough platforms up towards multiple health pickups as a reward for completing the puzzle.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
-My level incentivises the player to explore through providing them with rewards for doing so. 
+My level incentivises the player to explore through providing them with rewards for doing so. These rewards include health pickups and checkpoints which aid the player in their progression throughout the level. The design of my level creates distinct and memorable spaces by having a clear narrative the player moves through. At the beginning of the level, the player walks out and sees the pretty and colourful background, then as they move forward they enter a cave which the player goes deeper and deeper into with the enemies getting more and more prominent/difficult. From this, it is clear that as the cave gets deeper, the more difficult the level becomes. 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
