@@ -58,7 +58,7 @@ I decided to introduce a spitter in this location to give the player a greater c
 ### 2.7. Weapon Pickup (Gun)
 The introduction of the gun pickup here is a way to show the player that firstly, they can figure out how to shoot their weapon before an enemy confronts them, and secondly, so they learn they can shoot the gun whilst crouching which may be helpful in future sections.
 
-### 2.5. Keys
+### 2.8. Keys
 The key is introduced to the player once they have gotten to the end of the 'first floor' as a reward for completing it and are then encouraged to move on further into the cave. 
 
 ## 3. Spatiotemporal Design
