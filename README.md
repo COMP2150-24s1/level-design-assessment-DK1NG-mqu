@@ -61,18 +61,18 @@ The key is introduced to the player once they have gotten to the end of the 'fir
 ![](DocImages/Key.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 ![](DocImages/MoleculeDiagram3.png)
 
 ### 3.2. Level Map – Section 1
+![](DocImages/Section1.png)
 
 ### 3.3.	Level Map – Section 2
+![](DocImages/Section2.png)
 
 ### 3.4.	Level Map – Section 3
+![](DocImages/Section3.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
