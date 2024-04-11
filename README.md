@@ -15,7 +15,6 @@ To show the intensity curve in my level, I utilised spikes in difficulty and als
 The biggest challenges in my level occur throughout the first section whilst the player is still getting familiar with the mechanics and controls of the game. However, as they progress through the level the difficulty does still have spikes and connective spaces in between to balance the challenges. Whilst the main challenges are at the beginning, there are some puzzles towards the end of the level which may challenge the player and their thinking. One of these puzzles includes opening a door, requiring them to shoot a switch, extending a bridge, allowing them to enter another room with enemies and another switch which will open the door, finally allowing the player through to the next area. After this difficult puzzle, there is a connective space including only a few enemies, however also includes a small parkour section using passthrough platforms up towards multiple health pickups as a reward for completing the puzzle.
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 My level incentivises the player to explore through providing them with rewards for doing so. These rewards include health pickups and checkpoints which aid the player in their progression throughout the level. The design of my level creates distinct and memorable spaces by having a clear narrative the player moves through. At the beginning of the level, the player walks out and sees the pretty and colourful background, then as they move forward they enter a cave which the player goes deeper and deeper into with the enemies getting more and more prominent/difficult. From this, it is clear that as the cave gets deeper, the more difficult the level becomes. 
 
 ## 2. Core Gameplay (~400 words)
@@ -75,28 +74,5 @@ The key is introduced to the player once they have gotten to the end of the 'fir
 ![](DocImages/Section3.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
-
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+Iterative design helped me improve my level by giving me clear ideas of certain sections of my design. For example, I had a thought for a puzzle which I then drew a prototype for, however when I attempted to implement this into my level, it didn't function as I had hoped and I had to scrap the idea completely. Although this idea failed, it inspired me to another puzzle/obstacle for the player to overcome, the idea was to have the player jump up onto a moving platform which will slowly navigate through a small cave, with threats above and below such as spikes and acid. However once I attempted to add this to my level, I had to redesign the idea which better suited the limitations of certain assets. The final design of this obstacle was a simple moving platform which the player would jump on and be forced to crouch in order to fit under the spikes otherwise they would take damage, and once they reached the other side without the threat of taking damage, there were enemies and the first key, then a drop down into the second section of the level. After I had drew my initial level design and started to implement it into Unity, I found some areas lacking in variety with repeated enemies and obstacles, making the level more boring. To solve this issue I decided to include some of the optional assets such as destructible walls, switches and doors. These extra assets made the level have a greater variety in obstacles/challenges for the player to overcome, keeping them in the flow state instead of them getting bored and losing interest.
