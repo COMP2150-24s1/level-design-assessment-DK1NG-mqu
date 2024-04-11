@@ -3,18 +3,6 @@
 ### Name: Declan King
 ### Student number: 47414588
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 
 ### 1.1. Discovery
@@ -31,11 +19,6 @@ How does your level design facilitate autonomy and invite the player to explore?
 My level incentivises the player to explore through providing them with rewards for doing so. These rewards include health pickups and checkpoints which aid the player in their progression throughout the level. The design of my level creates distinct and memorable spaces by having a clear narrative the player moves through. At the beginning of the level, the player walks out and sees the pretty and colourful background, then as they move forward they enter a cave which the player goes deeper and deeper into with the enemies getting more and more prominent/difficult. From this, it is clear that as the cave gets deeper, the more difficult the level becomes. 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Spikes
 Spikes were the first obstacle I chose to introduce to the player as it is a relatively easy obstacle, dealing minimum damage and allowing the player to move on without dying and an invincibility timer.
